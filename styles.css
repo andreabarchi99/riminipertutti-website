@@ -6,11 +6,12 @@ body {
 }
 
 header {
-    background-color: red;
-    color: white;
+    background-color: red; /* Sfondo rosso */
+    color: white; /* Testo bianco per contrasto */
+    padding: 20px;
     text-align: center;
-    padding: 1em;
 }
+
 
 nav ul {
     list-style: none;
